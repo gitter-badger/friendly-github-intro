@@ -24,10 +24,10 @@ Grab some food and drink and get settled in.
     * Create a git repository for your project.
     * Collaborate and share your projects with others using GitHub.
 * Resources
-      * [README](https://github.com/mozfellows-hack/friendly-github-intro/blob/gh-pages/README.md)
-      * [webpage](https://mozfellows-hack.github.io/friendly-github-intro)
-      * [etherpad](https://public.etherpad-mozilla.org/p/2017-04-28-friendly-github-intro)
-      * [gitter-chat](https://gitter.im/mozfellows-hack/microwowqmul)
+  * [README](https://github.com/mozfellows-hack/friendly-github-intro/blob/gh-pages/README.md)
+  * [webpage](https://mozfellows-hack.github.io/friendly-github-intro)
+  * [etherpad](https://public.etherpad-mozilla.org/p/2017-04-28-friendly-github-intro)
+  * [gitter-chat](https://gitter.im/mozfellows-hack/microwowqmul)
 
 **18:15 - 18:30: Introduction to git and GitHub**
 
